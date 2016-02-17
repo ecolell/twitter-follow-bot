@@ -1,3 +1,4 @@
+[![Beerpay](http://test.beerpay.io/ecolell/twitter-follow-bot/badge.svg?style=flat-square)](http://test.beerpay.io/ecolell/twitter-follow-bot)
 #Twitter Bot
 
 A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
